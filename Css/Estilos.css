@@ -7,8 +7,7 @@
 }
 
 body {
-	background-color: #FFFFFFFF
-	/*background: url(../Img/123.jpg);*/
+	background: url(../Img/123.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: Roboto;
